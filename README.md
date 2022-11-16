@@ -1,2 +1,2 @@
 # watsu
-it whould be mine first github repo 
+it would be mine first github repo 
